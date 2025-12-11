@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Priyadarshani Padhy  <br>🎓 Master of Computer Applications (MCA) student at GIET University, Odisha | Expected 2025  <br>💻 Aspiring Software Engineer | Skilled in JavaScript, React.js, HTML5, CSS3, Bootstrap  <br>⚙️ Familiar with backend frameworks like Node.js & Django, and databases (MySQL, MongoDB)  <br>🌱 Currently interning at Evision Technoverse Pvt. Ltd., gaining hands-on experience in software development  <br>🚀 Passionate about building scalable, user-friendly applications and continuously learning modern technologies  <br>📌 Open to internships and opportunities in software engineering  
+👋 Hi, I'm Priyadarshani Padhy  <br>🎓 Master of Computer Applications (MCA),GIET University, Odisha | (2025)  <br>💻 Aspiring Software Engineer | Skilled in JavaScript, React.js, HTML5, CSS3, Bootstrap  <br>⚙️ Familiar with backend frameworks like Node.js & Django, and databases (MySQL, MongoDB)  <br>🌱 Currently interning at Evision Technoverse Pvt. Ltd., gaining hands-on experience in software development  <br>🚀 Passionate about building scalable, user-friendly applications and continuously learning modern technologies  <br>📌 Open to internships and opportunities in software engineering  
 
 
 ## 🌐 Socials:
